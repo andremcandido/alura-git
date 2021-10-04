@@ -1,0 +1,79 @@
+[33mcommit f467e0ef9ecab4aae9b5d03bf801188841dbed6e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 14:22:33 2021 -0300
+
+    Mudando nome do curso de Ansible
+
+[33mcommit 68d6d769f6dc615815cc986821a031bc9bc50ea1[m[33m ([m[1;31mlocal/master[m[33m)[m
+Merge: c1db3a0 53f1bd1
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 12:03:46 2021 -0300
+
+    Merge branch 'master' of C:/servidor
+
+[33mcommit c1db3a03cbfbd98a243c3077ed1193efd3505672[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 12:03:25 2021 -0300
+
+    Corrigindo curso de vagrant
+
+[33mcommit 53f1bd1fbdd77f1c76a7a18cfaa3c712cb4d7960[m
+Merge: 6e2f094 cb93ea0
+Author: Andre Martins Candido <andre.candido@keeggo.com>
+Date:   Mon Oct 4 12:00:37 2021 -0300
+
+    Merge branch 'lista'
+
+[33mcommit cb93ea0ddabcf02c3c402af9ba85b050e9e66237[m
+Author: Andre Martins Candido <andre.candido@keeggo.com>
+Date:   Mon Oct 4 11:53:05 2021 -0300
+
+    Atualizando nome do curso de Docker
+
+[33mcommit 6e2f094c84afa675bfbaa184203b9eb90034cbec[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 11:49:34 2021 -0300
+
+    Cursos com letra maiuscula
+
+[33mcommit 0d793180987404d3a221207bd1e476c14905d461[m
+Author: Andre Martins Candido <andre.candido@keeggo.com>
+Date:   Mon Oct 4 11:36:27 2021 -0300
+
+    Adicionando curso de kubernetes
+
+[33mcommit e07fe4709670270b3029dee236732d283e1dbff9[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 11:33:42 2021 -0300
+
+    lista no inicio do titulo
+
+[33mcommit 7a0c19991d862c6305826fcc5d835774291f6174[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Mon Oct 4 11:20:16 2021 -0300
+
+    Alterando titulo da pagina
+
+[33mcommit 378e4fbaf70ca45a1e6f8b8f9a845fa3b2492078[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Andre Martins Candido <andre.candido@keeggo.com>
+Date:   Mon Oct 4 10:26:56 2021 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit 444f1569c387075aa44c685981c56db0b9ba2dac[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Fri Oct 1 17:45:11 2021 -0300
+
+    Adicionando .gitignore
+
+[33mcommit a4c12dff06c1def39456bab8773205d0bafef320[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Fri Oct 1 12:18:44 2021 -0300
+
+    Acento adicionado no curso de Integração contínua
+
+[33mcommit e2a563140115cf97a75c199851fb95e7dcd4bbf9[m
+Author: Andre Martins <andre.candido@keeggo.com>
+Date:   Fri Oct 1 12:13:44 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
